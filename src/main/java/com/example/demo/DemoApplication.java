@@ -14,6 +14,8 @@ public class DemoApplication {
 		System.out.println("my age is 21");
 		System.out.println("flipkart_auth");
 		System.out.println("flipkart dev done");
+		System.out.println("escrow_account_settlement");
+		System.out.println("escrow dev done");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
